@@ -2,5 +2,5 @@
 2:I[52063,["/art-gallery/_next/static/chunks/d7e0ba544dfb1723.js"],"default"]
 3:I[91193,["/art-gallery/_next/static/chunks/2040686269752c56.js","/art-gallery/_next/static/chunks/833a89955786abc3.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"0dPJhwtBilejcOewhEziL","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"padding":"40px"},"children":[["$","h1",null,{"children":"Landscape Art Collection"}],["$","$L2",null,{}]]}],[["$","script","script-0",{"src":"/art-gallery/_next/static/chunks/d7e0ba544dfb1723.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"g45Rh2m7hTqxZKsLuMWfM","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"padding":"40px"},"children":[["$","h1",null,{"children":"Landscape Art Collection"}],["$","$L2",null,{}]]}],[["$","script","script-0",{"src":"/art-gallery/_next/static/chunks/d7e0ba544dfb1723.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
