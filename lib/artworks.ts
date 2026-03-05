@@ -11,7 +11,7 @@ export const artworks: Artwork[] = [
     id: "1",
     title: "Highland Valley",
     category: "Mountains",
-    image: "/artworks/originals/highland-valley.jpg",
-    thumbnail: "/artworks/thumbs/highland-valley.jpg",
+    image: "artworks/originals/highland-valley.jpg",
+    thumbnail: "artworks/thumbs/highland-valley.jpg",
   },
 ];
