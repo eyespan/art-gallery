@@ -1,63 +1,53 @@
-"use client"
+"use client";
 
-import Image from "next/image"
-import { useState } from "react"
-import Lightbox from "yet-another-react-lightbox"
-import Zoom from "yet-another-react-lightbox/plugins/zoom"
-import "yet-another-react-lightbox/styles.css"
+import { useState } from "react";
+import Image from "next/image";
 
-type Artwork = {
-  id: string
-  title: string
-  image: string
-}
+import Lightbox from "yet-another-react-lightbox";
+import Zoom from "yet-another-react-lightbox/plugins/zoom";
+import "yet-another-react-lightbox/styles.css";
 
-export default function Gallery({ artworks }: { artworks: Artwork[] }) {
+import type { Artwork } from "@/lib/artworks";
 
-  const [index, setIndex] = useState(-1)
+type GalleryProps = {
+  artworks: Artwork[];
+};
 
-  const slides = artworks.map((art) => ({
-    src: art.image,
-  }))
+export default function Gallery({ artworks }: GalleryProps) {
+
+  const [index, setIndex] = useState<number>(-1);
 
   return (
-    <div className="px-6 py-10">
+    <>
+      <div className="gallery-container">
 
-      {/* Masonry Layout */}
-      <div className="columns-1 sm:columns-2 lg:columns-3 gap-6 space-y-6">
-
-        {artworks.map((art, i) => (
-
+        {artworks.map((art: Artwork, i: number) => (
           <div
             key={art.id}
-            className="break-inside-avoid cursor-pointer group"
+            className="gallery-item"
             onClick={() => setIndex(i)}
           >
-
             <Image
-              src={art.image}
+              src={art.thumbnail || art.image}
               alt={art.title}
               width={800}
-              height={1000}
-              className="w-full rounded-xl shadow-md transition-transform duration-300 group-hover:scale-105"
+              height={600}
+              className="gallery-image"
             />
 
+            <p className="gallery-title">{art.title}</p>
           </div>
-
         ))}
 
       </div>
 
-      {/* Lightbox */}
       <Lightbox
-        slides={slides}
+        slides={artworks.map((a: Artwork) => ({ src: a.image }))}
         open={index >= 0}
         index={index}
         close={() => setIndex(-1)}
         plugins={[Zoom]}
       />
-
-    </div>
-  )
+    </>
+  );
 }
-
