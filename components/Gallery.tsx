@@ -5,24 +5,24 @@ export default function Gallery() {
   const artworks = getArtworks();
 
   return (
-    <div
-      style={{
-        display: "grid",
-        gridTemplateColumns: "repeat(auto-fill,minmax(250px,1fr))",
-        gap: "20px"
-      }}
-    >
-      {artworks.map(a => (
-        <a key={a.id} href={a.image} target="_blank">
-          <Image
-            src={a.thumbnail}
-            alt={a.title}
-            width={400}
-            height={300}
-          />
-          <p>{a.title}</p>
-        </a>
-      ))}
+    <div className="max-w-7xl mx-auto px-8 py-12">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12">
+        {artworks.map((art) => (
+          <div key={art.id} className="text-center">
+            <a href={art.image} target="_blank">
+              <Image
+                src={art.thumbnail}
+                alt={art.title}
+                width={600}
+                height={400}
+                className="rounded-xl shadow-md hover:shadow-xl hover:scale-105 transition duration-300"
+              />
+            </a>
+
+            <p className="mt-4 text-lg font-medium">{art.title}</p>
+          </div>
+        ))}
+      </div>
     </div>
   );
 }
