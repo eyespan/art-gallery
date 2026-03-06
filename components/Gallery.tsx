@@ -1,28 +1,63 @@
-import Image from "next/image";
-import { getArtworks } from "@/lib/getArtworks";
+"use client"
 
-export default function Gallery() {
-  const artworks = getArtworks();
+import Image from "next/image"
+import { useState } from "react"
+import Lightbox from "yet-another-react-lightbox"
+import Zoom from "yet-another-react-lightbox/plugins/zoom"
+import "yet-another-react-lightbox/styles.css"
+
+type Artwork = {
+  id: string
+  title: string
+  image: string
+}
+
+export default function Gallery({ artworks }: { artworks: Artwork[] }) {
+
+  const [index, setIndex] = useState(-1)
+
+  const slides = artworks.map((art) => ({
+    src: art.image,
+  }))
 
   return (
-    <div className="max-w-7xl mx-auto px-8 py-12">
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12">
-        {artworks.map((art) => (
-          <div key={art.id} className="text-center">
-            <a href={art.image} target="_blank">
-              <Image
-                src={art.thumbnail}
-                alt={art.title}
-                width={600}
-                height={400}
-                className="rounded-xl shadow-md hover:shadow-xl hover:scale-105 transition duration-300"
-              />
-            </a>
+    <div className="px-6 py-10">
 
-            <p className="mt-4 text-lg font-medium">{art.title}</p>
+      {/* Masonry Layout */}
+      <div className="columns-1 sm:columns-2 lg:columns-3 gap-6 space-y-6">
+
+        {artworks.map((art, i) => (
+
+          <div
+            key={art.id}
+            className="break-inside-avoid cursor-pointer group"
+            onClick={() => setIndex(i)}
+          >
+
+            <Image
+              src={art.image}
+              alt={art.title}
+              width={800}
+              height={1000}
+              className="w-full rounded-xl shadow-md transition-transform duration-300 group-hover:scale-105"
+            />
+
           </div>
+
         ))}
+
       </div>
+
+      {/* Lightbox */}
+      <Lightbox
+        slides={slides}
+        open={index >= 0}
+        index={index}
+        close={() => setIndex(-1)}
+        plugins={[Zoom]}
+      />
+
     </div>
-  );
+  )
 }
+

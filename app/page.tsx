@@ -1,10 +1,13 @@
-import Gallery from "@/components/Gallery";
+import { getArtworks } from "@/lib/getArtworks"
+import Gallery from "@/components/Gallery"
 
-export default function Page() {
+export default async function Page() {
+
+  const artworks = await getArtworks()
+
   return (
-    <main style={{ padding: "40px" }}>
-      <h1>Landscape Art Collection</h1>
-      <Gallery />
+    <main>
+      <Gallery artworks={artworks} />
     </main>
-  );
+  )
 }

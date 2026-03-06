@@ -1,11 +1,15 @@
 export type Artwork = {
-  id: string;
-  title: string;
-  category: string;
-  image: string;
-  medium: string
-  thumbnail: string;
-};
+  id: string
+  title: string
+  image: string
+  thumbnail: string
+  medium?: string
+  width?: number
+  height?: number
+  category?: string
+}
+
+
 
 export const artworks: Artwork[] = [
   {
