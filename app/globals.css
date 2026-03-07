@@ -58,6 +58,7 @@ a {
 .gallery-image {
   width: 100%;
   height: auto;
+  display: block;          /* ← add this */
   border-radius: 10px;
   transition: transform 0.3s ease;
 }

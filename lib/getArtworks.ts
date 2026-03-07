@@ -10,21 +10,16 @@ export type Artwork = {
 
 export function getArtworks(): Artwork[] {
   const dir = path.join(process.cwd(), "public/artworks/originals");
+  const files = fs.readdirSync(dir).filter(f => /\.(jpg|jpeg|png|webp)$/i.test(f));
 
-  const files = fs.readdirSync(dir);
-
-  return files.map((file, i) => {
+  return files.map((file) => {
     const name = file.replace(/\.[^/.]+$/, "");
-
-    const title = name
-      .replace(/-/g, " ")
-      .replace(/\b\w/g, l => l.toUpperCase());
-
+    const title = name.replace(/-/g, " ").replace(/\b\w/g, l => l.toUpperCase());
     return {
-      id: String(i),
+      id: name,
       title,
       image: `artworks/originals/${file}`,
-      thumbnail: `artworks/thumbs/${file}`
+      thumbnail: `artworks/thumbs/${file}`,
     };
   });
 }
