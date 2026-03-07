@@ -7,8 +7,7 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   basePath: "/art-gallery",
-  assetPrefix: "/art-gallery/",
+  assetPrefix: "/art-gallery",
 };
 
 export default nextConfig;
-
