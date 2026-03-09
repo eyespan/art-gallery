@@ -68,7 +68,7 @@ export default function AboutPage() {
             textTransform: "uppercase",
           }}>
             {/* Replace with a caption */}
-            lklandscape Art — Studio, 2024
+            lklandscape Art — Studio, 2026
           </p>
         </div>
 
@@ -194,11 +194,11 @@ export default function AboutPage() {
         </h2>
 
         {[
-          { year: "2024", title: "Placeholder Exhibition Title", venue: "Placeholder Gallery, City" },
-          { year: "2023", title: "Placeholder Group Show", venue: "Placeholder Arts Centre, City" },
-          { year: "2022", title: "Placeholder Solo Exhibition", venue: "Placeholder Museum, City" },
-          { year: "2021", title: "Placeholder Open Exhibition", venue: "Placeholder Gallery, City" },
-          { year: "2020", title: "Placeholder Annual Show", venue: "Placeholder Art Society, City" },
+          { year: "2026", title: "Placeholder Exhibition Title", venue: "Placeholder Gallery, City" },
+          { year: "2025", title: "Placeholder Group Show", venue: "Placeholder Arts Centre, City" },
+          { year: "2024", title: "Placeholder Solo Exhibition", venue: "Placeholder Museum, City" },
+          { year: "2023", title: "Placeholder Open Exhibition", venue: "Placeholder Gallery, City" },
+          { year: "2022", title: "Placeholder Annual Show", venue: "Placeholder Art Society, City" },
         ].map((ex, i) => (
           <div key={i} style={{
             display: "grid",
