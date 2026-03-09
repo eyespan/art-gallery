@@ -52,7 +52,7 @@ export default function HomePage() {
           each piece a moment of light, season and place.
         </p>
         <Link
-          href="/art-gallery/paintings"
+          href="/paintings"
           style={{
             display: "inline-block",
             padding: "0.85rem 2.5rem",
@@ -111,7 +111,7 @@ export default function HomePage() {
 
         <div style={{ textAlign: "center", marginTop: "2.5rem" }}>
           <Link
-            href="/art-gallery/paintings"
+            href="/paintings"
             style={{
               display: "inline-block",
               padding: "0.75rem 2.2rem",

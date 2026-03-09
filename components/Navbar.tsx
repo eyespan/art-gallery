@@ -9,10 +9,10 @@ export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
 
   const links = [
-    { href: "/art-gallery", label: "Home" },
-    { href: "/art-gallery/paintings", label: "Paintings" },
-    { href: "/art-gallery/about", label: "About" },
-    { href: "/art-gallery/contact", label: "Contact" },
+    { href: "/", label: "Home" },
+    { href: "/paintings", label: "Paintings" },
+    { href: "/about", label: "About" },
+    { href: "/contact", label: "Contact" },
   ];
 
   return (
