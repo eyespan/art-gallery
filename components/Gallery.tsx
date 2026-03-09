@@ -16,9 +16,9 @@ export default function Gallery({ artworks }: { artworks: Artwork[] }) {
       <div
         style={{
           columnCount: 3,
-          columnGap: "1.25rem",
-          padding: "2rem",
-          maxWidth: "1400px",
+          columnGap: "1rem",
+          padding: "1.5rem 3rem",
+          maxWidth: "1100px",
           margin: "0 auto",
         }}
       >
@@ -28,7 +28,7 @@ export default function Gallery({ artworks }: { artworks: Artwork[] }) {
             onClick={() => setIndex(i)}
             style={{
               breakInside: "avoid",
-              marginBottom: "1.25rem",
+              marginBottom: "0.85rem",
               cursor: "pointer",
             }}
           >
