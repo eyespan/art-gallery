@@ -31,7 +31,7 @@ export default function Navbar() {
       boxShadow: "0 1px 12px rgba(0,0,0,0.06)",
     }}>
       {/* Artist Name */}
-      <Link href="/art-gallery" style={{ textDecoration: "none" }}>
+      <Link href="/" style={{ textDecoration: "none" }}>
         <div style={{ display: "flex", flexDirection: "column", lineHeight: 1.1 }}>
           <span style={{
             fontFamily: "'Playfair Display', Georgia, serif",

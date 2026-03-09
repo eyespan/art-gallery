@@ -48,7 +48,7 @@ export default function HomePage() {
           lineHeight: 1.8,
           marginBottom: "2.5rem",
         }}>
-          Exploring the quiet beauty of landscapes through oil and mixed media —
+          Exploring the quiet beauty of landscapes through acrylic and mixed media —
           each piece a moment of light, season and place.
         </p>
         <Link
