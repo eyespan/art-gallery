@@ -148,9 +148,9 @@ export default function AboutPage() {
             textAlign: "left",
           }}>
             {/* Replace with real artist statement */}
-            "My work is rooted in a deep love for the natural world — the way light
+            My work is rooted in a deep love for the natural world — the way light
             falls across a hillside at dusk, the stillness of water in winter, the
-            unexpected colour in an overcast sky."
+            unexpected colour in an overcast sky.
           </blockquote>
           <p style={{
             fontSize: "1.05rem",

@@ -70,8 +70,8 @@ export default function ContactPage() {
             marginBottom: "2.5rem",
           }}>
             {/* Replace with real intro */}
-            Whether you're interested in purchasing a painting, commissioning
-            a new work, or simply want to say hello — I'd love to hear from you.
+            Whether you are interested in purchasing a painting, commissioning
+            a new work, or simply want to say hello — I would love to hear from you.
           </p>
 
           {/* Email */}
@@ -169,7 +169,7 @@ export default function ContactPage() {
                 Thank you!
               </p>
               <p style={{ fontSize: "1rem", color: "#666" }}>
-                Your message has been sent. I'll be in touch soon.
+                Your message has been sent. I will be in touch soon.
               </p>
             </div>
           ) : (
