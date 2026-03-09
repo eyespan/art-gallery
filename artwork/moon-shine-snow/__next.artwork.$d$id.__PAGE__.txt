@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[30030,["/art-gallery/_next/static/chunks/766d27b96eb43d4d.js"],""]
+2:I[30030,["/art-gallery/_next/static/chunks/f8e05456059642b9.js"],""]
 3:I[91193,["/art-gallery/_next/static/chunks/2040686269752c56.js","/art-gallery/_next/static/chunks/833a89955786abc3.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
 :HL["/art-gallery/artworks/originals/moon-shine-snow.jpg","image"]
-0:{"buildId":"xahpQj_GYM8Fh4PmgJTcY","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"padding":"2rem","textAlign":"center"},"children":[["$","$L2",null,{"href":"/","style":{"display":"inline-block","marginBottom":"1.5rem","fontSize":"0.9rem"},"children":"← Back to gallery"}],["$","h1",null,{"style":{"marginBottom":"1.5rem","fontSize":"1.5rem"},"children":"Moon Shine Snow"}],["$","img",null,{"src":"/art-gallery/artworks/originals/moon-shine-snow.jpg","alt":"Moon Shine Snow","style":{"maxWidth":"100%","height":"auto","borderRadius":"8px"}}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"gkMHUOVvusxYpbMxmqiD9","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"padding":"2rem","textAlign":"center"},"children":[["$","$L2",null,{"href":"/","style":{"display":"inline-block","marginBottom":"1.5rem","fontSize":"0.9rem"},"children":"← Back to gallery"}],["$","h1",null,{"style":{"marginBottom":"1.5rem","fontSize":"1.5rem"},"children":"Moon Shine Snow"}],["$","img",null,{"src":"/art-gallery/artworks/originals/moon-shine-snow.jpg","alt":"Moon Shine Snow","style":{"maxWidth":"100%","height":"auto","borderRadius":"8px"}}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
