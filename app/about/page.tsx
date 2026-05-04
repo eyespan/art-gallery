@@ -57,6 +57,7 @@ export default function AboutPage() {
             overflow: "hidden",
           }}>
             {/* Replace with: <img src="/art-gallery/artist-photo.jpg" alt="lklandscape" style={{width:"100%",height:"100%",objectFit:"cover"}} /> */}
+            <img src="/art-gallery/artist-photo.jpg" alt="lklandscape" style={{width:"100%",height:"100%",objectFit:"cover"}} /> 
             <span>Artist Photo</span>
           </div>
           <p style={{
@@ -90,9 +91,11 @@ export default function AboutPage() {
             marginBottom: "1.2rem",
           }}>
             {/* Replace with real bio */}
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-            quis nostrud exercitation ullamco laboris.
+            My work is rooted in a lifelong connection to the natural world. Growing up 
+            surrounded by rolling meadows, dense forests, and beautiful rivers shaped not 
+            only my imagination, but the way I see and interpret landscape today. Those early 
+            memories of the countryside continue to influence my artistic vision, guiding the 
+            way I observe light, colour, and atmosphere in every place I paint.
           </p>
           <p style={{
             fontSize: "1.1rem",
@@ -101,9 +104,12 @@ export default function AboutPage() {
             marginBottom: "1.2rem",
           }}>
             {/* Replace with real bio continued */}
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-            eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-            sunt in culpa qui officia deserunt mollit anim id est laborum.
+            Now based in Cambridge, where I have lived for several decades and developed a 
+            deep connection to the surrounding landscapes, I work primarily in acrylics. I draw 
+            inspiration from the quiet beauty of the English countryside: Cambridgeshire, 
+            Norfolk, Suffolk, and the Cotswolds, as well as landscapes encountered 
+            throughout my travels. Every place I paint has something unique about it, and I try 
+            to share that feeling with viewers.
           </p>
           <p style={{
             fontSize: "1.1rem",
@@ -111,10 +117,43 @@ export default function AboutPage() {
             color: "#555",
           }}>
             {/* Replace with real bio continued */}
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-            doloremque laudantium, totam rem aperiam eaque ipsa quae ab illo inventore
-            veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+            My creative process begins outdoors, where I make sketches and notes in 
+            response to the changing light, textures, and mood of the landscape. These 
+            studies become the foundation for the paintings I complete in my studio, where I 
+            explore layering, colour, and texture to build depth and atmosphere. My passion 
+            for painting comes not only from nature, but also from my love of flowers and their 
+            vibrant colours. I’m especially drawn to rich hues and the beautiful patterns I see in 
+            fabrics and interiors.
           </p>
+          <p style={{
+            fontSize: "1.1rem",
+            lineHeight: 1.9,
+            color: "#555",
+          }}>
+            {/* Replace with real bio continued */}
+            Each painting captures a moment and a feeling. I try to show not just the beauty of 
+            a place, but also the calm, reflection, and connection it can bring.
+          </p>
+          <p style={{
+            fontSize: "1.1rem",
+            lineHeight: 1.9,
+            color: "#555",
+          }}>
+            {/* Replace with real bio continued */}
+            I studied Fine Art at the London Art College, where I developed my technical skills 
+            and deepened my understanding of composition, colour, and light. Today, I 
+            continue to explore how nature makes me feel and to capture the timeless beauty 
+            of the landscapes that inspire me.
+          </p>
+          <p style={{
+            fontSize: "1.1rem",
+            lineHeight: 1.9,
+            color: "#555",
+          }}>
+            {/* Replace with real bio continued */}
+            Through my art, I hope to inspire people to pause and enjoy the calm and beauty 
+            of nature.
+           </p> 
         </div>
       </section>
 
