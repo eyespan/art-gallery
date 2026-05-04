@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from 'next/image';
 
 export default function AboutPage() {
   return (
@@ -55,9 +56,10 @@ export default function AboutPage() {
             letterSpacing: "0.1em",
             textTransform: "uppercase",
             overflow: "hidden",
+            position: "relative",
           }}>
             {/* Replace with: <img src="/art-gallery/artist-photo.jpg" alt="lklandscape" style={{width:"100%",height:"100%",objectFit:"cover"}} /> */}
-            <img src="/art-gallery/liga-artist-profile.jpg" alt="lklandscape" style={{width:"100%",height:"100%",objectFit:"cover"}} /> 
+            <Image src="/art-gallery/liga-artist-profile.jpg" alt="lklandscape"  fill style={{ objectFit: 'cover' }} /> 
             <span>Artist Photo</span>
           </div>
           <p style={{
