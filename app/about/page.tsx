@@ -94,7 +94,7 @@ export default function AboutPage() {
           }}>
             {/* Replace with real bio */}
             My work is rooted in a lifelong connection to the natural world. Growing up 
-            surrounded by rolling meadows, dense forests, and beautiful rivers shaped not 
+            surrounded by meadows, forests, and beautiful rivers shaped not 
             only my imagination, but the way I see and interpret landscape today. Those early 
             memories of the countryside continue to influence my artistic vision, guiding the 
             way I observe light, colour, and atmosphere in every place I paint.
@@ -189,9 +189,8 @@ export default function AboutPage() {
             textAlign: "left",
           }}>
             {/* Replace with real artist statement */}
-            My work is rooted in a deep love for the natural world — the way light
-            falls across a hillside at dusk, the stillness of water in winter, the
-            unexpected colour in an overcast sky.
+            Liga is a Cambridge based landscape painter working in acrylics, inspired by the quiet beauty of the English countryside and beyond. 
+            Her paintings capture fleeting moments of light, atmosphere, and calm from the fenlands of Cambridgeshire to the rolling hills of the Cotswolds. Her hope is simple that something of the calm she finds in nature comes through in her work.
           </blockquote>
           <p style={{
             fontSize: "1.05rem",
@@ -200,9 +199,6 @@ export default function AboutPage() {
             textAlign: "left",
           }}>
             {/* Replace with extended statement */}
-            Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-            sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-            Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.
           </p>
         </div>
       </section>
