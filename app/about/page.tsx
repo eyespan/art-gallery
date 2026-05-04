@@ -57,7 +57,7 @@ export default function AboutPage() {
             overflow: "hidden",
           }}>
             {/* Replace with: <img src="/art-gallery/artist-photo.jpg" alt="lklandscape" style={{width:"100%",height:"100%",objectFit:"cover"}} /> */}
-            <img src="/art-gallery/artist-photo.jpg" alt="lklandscape" style={{width:"100%",height:"100%",objectFit:"cover"}} /> 
+            <img src="/art-gallery/liga-artist-profile.jpg" alt="lklandscape" style={{width:"100%",height:"100%",objectFit:"cover"}} /> 
             <span>Artist Photo</span>
           </div>
           <p style={{
