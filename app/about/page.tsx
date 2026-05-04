@@ -235,11 +235,7 @@ export default function AboutPage() {
         </h2>
 
         {[
-          { year: "2026", title: "Placeholder Exhibition Title", venue: "Placeholder Gallery, City" },
-          { year: "2025", title: "Placeholder Group Show", venue: "Placeholder Arts Centre, City" },
-          { year: "2024", title: "Placeholder Solo Exhibition", venue: "Placeholder Museum, City" },
-          { year: "2023", title: "Placeholder Open Exhibition", venue: "Placeholder Gallery, City" },
-          { year: "2022", title: "Placeholder Annual Show", venue: "Placeholder Art Society, City" },
+          { year: "26 May - June 2026", title: "Placeholder Exhibition Title", venue: "Hot Numbers Coffee Roasters, Trumpington Street, Cambridge, CB2 1QA" },
         ].map((ex, i) => (
           <div key={i} style={{
             display: "grid",
