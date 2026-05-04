@@ -235,7 +235,7 @@ export default function AboutPage() {
         </h2>
 
         {[
-          { year: "26 May - June 2026", title: "Placeholder Exhibition Title", venue: "Hot Numbers Coffee Roasters, Trumpington Street, Cambridge, CB2 1QA" },
+          { year: "26 May - 6 July 2026", title: "English Landscapes", venue: "Hot Numbers Coffee Roasters, Trumpington Street, Cambridge, CB2 1QA" },
         ].map((ex, i) => (
           <div key={i} style={{
             display: "grid",
