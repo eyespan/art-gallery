@@ -239,7 +239,7 @@ export default function AboutPage() {
         ].map((ex, i) => (
           <div key={i} style={{
             display: "grid",
-            gridTemplateColumns: "80px 1fr",
+            gridTemplateColumns: "160px 1fr",
             gap: "1rem",
             padding: "1.25rem 0",
             borderBottom: "1px solid #e8e0d8",
