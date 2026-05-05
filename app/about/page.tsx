@@ -44,7 +44,7 @@ export default function AboutPage() {
         {/* Photo */}
         <div>
           <div style={{
-            width: "50%",
+            width: "80%",
             aspectRatio: "3/4",
             background: "#e8e0d8",
             borderRadius: "4px",
