@@ -108,7 +108,7 @@ export default function ContactPage() {
             <p style={{ fontSize: "1rem", color: "#555", lineHeight: 1.7 }}>
               {/* Replace with real location */}
               Studio based in<br />
-              Placeholder Town, United Kingdom
+              Cambridge, United Kingdom
             </p>
           </div>
 
@@ -127,7 +127,7 @@ export default function ContactPage() {
               {[
                 { label: "Instagram", href: "https://instagram.com/lklandscapeart" },
                 { label: "Facebook", href: "https://facebook.com/lklandscapeart" },
-                { label: "Twitter / X", href: "https://twitter.com/lklandscapeart" },
+                {/* label: "Twitter / X", href: "https://twitter.com/lklandscapeart" */},
               ].map((s) => (
                 <a
                   key={s.label}
