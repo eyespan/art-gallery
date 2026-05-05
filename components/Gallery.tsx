@@ -1,23 +1,15 @@
 "use client";
 
-import { useState } from "react";
 import type { Artwork } from "@/lib/getArtworks";
-import Lightbox from "yet-another-react-lightbox";
-import Zoom from "yet-another-react-lightbox/plugins/zoom";
-import "yet-another-react-lightbox/styles.css";
 
 export default function Gallery({ artworks }: { artworks: Artwork[] }) {
-  const [index, setIndex] = useState(-1);
-
-  const currentArt = index >= 0 ? artworks[index] : null;
-
   return (
     <>
       <div className="gallery-grid">
-        {artworks.map((art, i) => (
-          <div
+        {artworks.map((art) => (
+          <a
             key={art.id}
-            onClick={() => setIndex(i)}
+            href={`/art-gallery/artwork/${art.id}`}
             className="gallery-card"
           >
             <img
@@ -26,49 +18,9 @@ export default function Gallery({ artworks }: { artworks: Artwork[] }) {
               className="gallery-card-img"
             />
             <p className="gallery-card-title">{art.title}</p>
-          </div>
+          </a>
         ))}
       </div>
-
-      <Lightbox
-        slides={artworks.map((a) => ({ src: `/art-gallery/${a.image}` }))}
-        open={index >= 0}
-        index={index}
-        close={() => setIndex(-1)}
-        plugins={[Zoom]}
-        render={{
-          buttonPrev: undefined,
-          buttonNext: undefined,
-          iconClose: undefined,
-        }}
-        toolbar={{
-          buttons: [
-            ...(currentArt
-              ? [
-                  <a
-                    key="view-full"
-                    href={`/art-gallery/artwork/${currentArt.id}`}
-                    style={{
-                      color: "white",
-                      textDecoration: "none",
-                      fontSize: "14px",
-                      padding: "6px 12px",
-                      border: "1px solid rgba(255,255,255,0.5)",
-                      borderRadius: "4px",
-                      margin: "auto 8px auto 0",
-                      whiteSpace: "nowrap" as const,
-                      alignSelf: "center",
-                    }}
-                  >
-                    View Full Size ↗
-                  </a>,
-                ]
-              : []),
-            "zoom",
-            "close",
-          ],
-        }}
-      />
 
       <style>{`
         .gallery-grid {
@@ -87,6 +39,9 @@ export default function Gallery({ artworks }: { artworks: Artwork[] }) {
           box-shadow: 0 2px 8px rgba(0,0,0,0.08);
           transition: transform 0.3s ease, box-shadow 0.3s ease;
           background: white;
+          text-decoration: none;
+          color: inherit;
+          display: block;
         }
 
         .gallery-card:hover {
