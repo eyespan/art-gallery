@@ -127,7 +127,6 @@ export default function ContactPage() {
               {[
                 { label: "Instagram", href: "https://instagram.com/lklandscapeart" },
                 { label: "Facebook", href: "https://facebook.com/lklandscapeart" },
-                {/* label: "Twitter / X", href: "https://twitter.com/lklandscapeart" */},
               ].map((s) => (
                 <a
                   key={s.label}
