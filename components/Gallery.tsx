@@ -15,8 +15,9 @@ export default function Gallery({ artworks }: { artworks: Artwork[] }) {
     <>
       <div
         style={{
-          columnCount: 3,
-          columnGap: "1rem",
+          display: "grid",
+          gridTemplateColumns: "repeat(3, 1fr)",
+          gap: "1rem",
           padding: "1.5rem 3rem",
           maxWidth: "1100px",
           margin: "0 auto",
@@ -27,9 +28,19 @@ export default function Gallery({ artworks }: { artworks: Artwork[] }) {
             key={art.id}
             onClick={() => setIndex(i)}
             style={{
-              breakInside: "avoid",
-              marginBottom: "0.85rem",
               cursor: "pointer",
+              borderRadius: "6px",
+              overflow: "hidden",
+              boxShadow: "0 2px 8px rgba(0,0,0,0.08)",
+              transition: "transform 0.3s ease, box-shadow 0.3s ease",
+            }}
+            onMouseEnter={(e) => {
+              (e.currentTarget as HTMLDivElement).style.transform = "translateY(-4px)";
+              (e.currentTarget as HTMLDivElement).style.boxShadow = "0 8px 24px rgba(0,0,0,0.15)";
+            }}
+            onMouseLeave={(e) => {
+              (e.currentTarget as HTMLDivElement).style.transform = "translateY(0)";
+              (e.currentTarget as HTMLDivElement).style.boxShadow = "0 2px 8px rgba(0,0,0,0.08)";
             }}
           >
             <img
@@ -37,16 +48,21 @@ export default function Gallery({ artworks }: { artworks: Artwork[] }) {
               alt={art.title}
               style={{
                 width: "100%",
-                height: "auto",
+                height: "220px",
+                objectFit: "cover",
                 display: "block",
-                borderRadius: "10px",
               }}
             />
             <p
               style={{
                 textAlign: "center",
-                marginTop: "10px",
-                fontSize: "16px",
+                padding: "0.6rem",
+                margin: 0,
+                fontSize: "14px",
+                background: "white",
+                fontFamily: "'Cormorant Garamond', Georgia, serif",
+                color: "#444",
+                letterSpacing: "0.02em",
               }}
             >
               {art.title}
