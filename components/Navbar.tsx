@@ -40,7 +40,7 @@ export default function Navbar() {
             color: "#2c5f6e",
             letterSpacing: "0.01em",
           }}>
-            lklandscape
+            lklandscapeart
           </span>
           <span style={{
             fontFamily: "'Cormorant Garamond', Georgia, serif",
@@ -50,7 +50,6 @@ export default function Navbar() {
             letterSpacing: "0.18em",
             textTransform: "uppercase",
           }}>
-            Art
           </span>
         </div>
       </Link>

@@ -38,7 +38,7 @@ export default function HomePage() {
           marginBottom: "1.5rem",
           maxWidth: "700px",
         }}>
-          Welcome to lklandscape Art
+          Welcome to lklandscapeart
         </h1>
         <p style={{
           fontFamily: "'Cormorant Garamond', Georgia, serif",

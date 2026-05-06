@@ -71,7 +71,7 @@ export default function AboutPage() {
             textTransform: "uppercase",
           }}>
             {/* Replace with a caption */}
-            lklandscape Art — Studio, 2026
+            lklandscapeart — Studio, 2026
           </p>
         </div>
 
