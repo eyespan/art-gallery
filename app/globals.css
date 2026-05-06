@@ -83,6 +83,6 @@ a {
 /* mobile */
 @media (max-width: 600px) {
   .gallery-container {
-    column-count: 1;
+    column-count: 2;
   }
 }
