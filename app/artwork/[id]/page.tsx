@@ -48,7 +48,7 @@ export default async function ArtworkPage({
         <div style={{ display: "flex", gap: "1.5rem", alignItems: "center" }}>
           {prev ? (
             <Link
-              href={`/art-gallery/artwork/${prev.id}`}
+              href={`/artwork/${prev.id}`}
               style={{ color: "#888", textDecoration: "none" }}
             >
               ‹ Previous
@@ -59,7 +59,7 @@ export default async function ArtworkPage({
           <span style={{ color: "#ddd" }}>/</span>
           {next ? (
             <Link
-              href={`/art-gallery/artwork/${next.id}`}
+              href={`/artwork/${next.id}`}
               style={{ color: "#888", textDecoration: "none" }}
             >
               Next ›
