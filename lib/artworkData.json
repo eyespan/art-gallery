@@ -1,74 +1,93 @@
 {
-    "forest-delight": {
+    "costwold-in-bloom": {
+      "order": 1,  
       "price": "£380",
       "medium": "Acrylic on canvas",
       "size": "40x30 cm",
+      "description": "This origianl piece was inspired by the lavander fields and peacful landsacpe of the Cotswolds."
+    },
+    "forest-delight": {
+      "order": 2,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
       "description": "Dappled light filtering through a summer woodland, full of warmth and movement."
     },
     "arttower-winter": {
+      "order": 3,   
       "price": "£450",
       "medium": "Acrylic on canvas",
-      "size": "40x30 cm",
+      "size": "30x25 cm",
       "description": "A winter scene capturing the quiet stillness of the art tower under heavy snowfall."
     },
     "forest-snow": {
+      "order": 4, 
       "price": "£400",
       "medium": "Acrylic on canvas",
-      "size": "40x30 cm",
+      "size": "30x25 cm",
       "description": "The hush of a snow-covered forest, rendered in cool blues and soft whites."
     },
     "light-house-placename": {
+      "order": 5, 
       "price": "£450",
       "medium": "Acrylic on canvas",
-      "size": "40x30 cm",
+      "size": "30x25 cm",
       "description": "A winter scene capturing the quiet stillness of the art tower under heavy snowfall."
     },
     "mondord-ocean": {
+      "order": 6,
       "price": "£380",
       "medium": "Acrylic on canvas",
-      "size": "40x30 cm",
+      "size": "30x25 cm",
       "description": "Dappled light filtering through a summer woodland, full of warmth and movement."
     },
     "moon-shine-snow": {
+      "order": 7, 
       "price": "£400",
       "medium": "Acrylic on canvas",
-      "size": "40x30 cm",
+      "size": "30x25 cm",
       "description": "The hush of a snow-covered forest, rendered in cool blues and soft whites."
     },
     "mountain-hut": {
+        "order": 8,
         "price": "£400",
         "medium": "Acrylic on canvas",
-        "size": "40x30 cm",
+        "size": "30x25 cm",
         "description": "A hut in the mountian, rendered in cool blues and soft whites."
     },
     "random-viallage": {
+        "order": "9",
         "price": "£400",
         "medium": "Acrylic on canvas",
-        "size": "40x30 cm",
+        "size": "30x25 cm",
         "description": "A village in the mountian, rendered in cool blues and soft whites."
     },
     "red-roses-in-a-manor": {
+        "order": 10,
         "price": "£400",
         "medium": "Acrylic on canvas",
-        "size": "40x30 cm",
+        "size": "30x25 cm",
         "description": "A manor with red roses, rendered in cool blues and soft whites."
     },
     "seaside-sunset": {
+        "order": 11,
         "price": "£400",
         "medium": "Acrylic on canvas",
-        "size": "40x30 cm",
+        "size": "30x25 cm",
         "description": "A sunset over the seaside, rendered in cool blues and soft whites."
     },
     "winter-by-the-sea": {
+        "order": 12,
         "price": "£400",
         "medium": "Acrylic on canvas",
-        "size": "40x30 cm",
+        "size": "30x25 cm",
         "description": "A winter scene by the sea, rendered in cool blues and soft whites."
     },
     "yellow-flowers-on": {
+        "order": 13,
         "price": "£400",
         "medium": "Acrylic on canvas",
-        "size": "40x30 cm",
+        "size": "30x25 cm",
         "description": "A manor with yellow flowers, rendered in cool blues and soft whites."
     }
 

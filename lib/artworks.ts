@@ -7,6 +7,10 @@ export type Artwork = {
   width?: number
   height?: number
   category?: string
+  order?: number
+  price?: string
+  description?: string
+
 }
 
 
