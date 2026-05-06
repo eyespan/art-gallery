@@ -84,7 +84,7 @@ export default function AboutPage() {
             color: "#1e3a42",
             marginBottom: "1.5rem",
           }}>
-            lklandscape Art
+            lklandscapeart
           </h2>
           <p style={{
             fontSize: "1.1rem",

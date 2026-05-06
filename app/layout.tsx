@@ -17,8 +17,8 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
-  title: "lklandscape Art",
-  description: "Original landscape paintings by lklandscape Art",
+  title: "lklandscapeart",
+  description: "Original landscape paintings by lklandscapeart",
 };
 
 export default function RootLayout({
