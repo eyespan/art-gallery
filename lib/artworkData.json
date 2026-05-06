@@ -1,0 +1,75 @@
+{
+    "arttower-winter": {
+      "price": "£450",
+      "medium": "Acrylic on canvas",
+      "size": "40x30 cm",
+      "description": "A winter scene capturing the quiet stillness of the art tower under heavy snowfall."
+    },
+    "forest-delight": {
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "40x30 cm",
+      "description": "Dappled light filtering through a summer woodland, full of warmth and movement."
+    },
+    "forest-snow": {
+      "price": "£400",
+      "medium": "Acrylic on canvas",
+      "size": "40x30 cm",
+      "description": "The hush of a snow-covered forest, rendered in cool blues and soft whites."
+    },
+    "light-house-placenamet": {
+      "price": "£450",
+      "medium": "Acrylic on canvas",
+      "size": "40x30 cm",
+      "description": "A winter scene capturing the quiet stillness of the art tower under heavy snowfall."
+    },
+    "mondord-ocean": {
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "40x30 cm",
+      "description": "Dappled light filtering through a summer woodland, full of warmth and movement."
+    },
+    "moon-shine-snow": {
+      "price": "£400",
+      "medium": "Acrylic on canvas",
+      "size": "40x30 cm",
+      "description": "The hush of a snow-covered forest, rendered in cool blues and soft whites."
+    },
+    "mountain-hut": {
+        "price": "£400",
+        "medium": "Acrylic on canvas",
+        "size": "40x30 cm",
+        "description": "A hut in the mountian, rendered in cool blues and soft whites."
+    },
+    "reandom-viallage": {
+        "price": "£400",
+        "medium": "Acrylic on canvas",
+        "size": "40x30 cm",
+        "description": "A village in the mountian, rendered in cool blues and soft whites."
+    },
+    "red-roses-in-a-manor": {
+        "price": "£400",
+        "medium": "Acrylic on canvas",
+        "size": "40x30 cm",
+        "description": "A manor with red roses, rendered in cool blues and soft whites."
+    },
+    "seaside-sunset": {
+        "price": "£400",
+        "medium": "Acrylic on canvas",
+        "size": "40x30 cm",
+        "description": "A sunset over the seaside, rendered in cool blues and soft whites."
+    },
+    "winter-by-the-sea": {
+        "price": "£400",
+        "medium": "Acrylic on canvas",
+        "size": "40x30 cm",
+        "description": "A winter scene by the sea, rendered in cool blues and soft whites."
+    },
+    "yellow-flowers-on-a-manor": {
+        "price": "£400",
+        "medium": "Acrylic on canvas",
+        "size": "40x30 cm",
+        "description": "A manor with yellow flowers, rendered in cool blues and soft whites."
+    }
+
+  }
