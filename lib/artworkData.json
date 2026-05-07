@@ -1,190 +1,450 @@
 {
-    "costwold-in-bloom": {
+    "castle-farm-kent": {
       "order": 1,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "40x30 cm",
+      "description": "This original piece was inspired by the castle farm in Kent, with its charming farmhouse and picturesque landscape."
+    },
+    "weston-corvile": {
+      "order": 2,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A serene landscape of Weston Corvile, with rolling hills and a peaceful atmosphere, rendered in cool blues and soft whites."
+    },
+    "suffolk-meadow": {
+      "order": 3,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A tranquil meadow scene in Suffolk, with soft grasses and gentle hills, rendered in cool blues and soft whites."
+    },
+    "natures-journey": {
+      "order": 4,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A vibrant landscape depicting the journey of nature through the seasons, with dynamic brushstrokes and a rich color palette."
+    },
+    "somewhere": {
+      "order": 5,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A landscape of rolling hills and a peaceful atmosphere, rendered in cool blues and soft whites."
+    },
+    "where-the-storks-gather": {
+      "order": 6,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A serene landscape of the Fenland, with flat fields and a vast sky, rendered in cool blues and soft whites."
+    },
+    "the-view-from-the-other-side": {
+      "order": 7,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A landscape of East Anglia, with rolling hills and a peaceful atmosphere, rendered in cool blues and soft whites."
+    },
+    "light-between-the-birches": {
+      "order": 8,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A vibrant landscape of fields of yellow, with bright sunlight and lush greenery, rendered in cool blues and soft whites."
+    },
+    "the-dandelion-field": {
+      "order": 9,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A whimsical landscape of a dandelion field, with fluffy white seed heads and a soft, dreamy atmosphere."
+    },
+    "winter-10": {
+      "order": 10,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "40x30 cm",
+      "description": "A serene landscape of twilight over frozen meadows, with soft blues and purples in the sky and a peaceful atmosphere."
+    },
+    "winter-light-over-the-hills": {
+      "order": 11,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "40x30 cm",
+      "description": "A serene landscape of twilight over frozen meadows, with soft blues and purples in the sky and a peaceful atmosphere."
+    },
+    "twilight-over-frozen-meadows": {
+      "order": 12,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "40x30 cm",
+      "description": "A serene landscape of twilight over frozen meadows, with soft blues and purples in the sky and a peaceful atmosphere."
+    },
+    "winter-13": {
+      "order": 13,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "40x30 cm",
+      "description": "A serene landscape of twilight over frozen meadows, with soft blues and purples in the sky and a peaceful atmosphere."
+    },
+    "costwold-in-bloom": {
+      "order": 14,  
       "price": "£380",
       "medium": "Acrylic on canvas",
       "size": "40x30 cm",
       "description": "This origianl piece was inspired by the lavander fields and peacful landsacpe of the Cotswolds."
     },
-    "endless-fields-of-gold": {
-      "order": 2,  
+    "granchester-meadows": {
+      "order": 15,  
       "price": "£380",
       "medium": "Acrylic on canvas",
       "size": "30x25 cm",
-      "description": "A golden field under a bright blue sky, evoking the warmth and abundance of summer."
+      "description": "A tranquil landscape of the Granchester Meadows, with soft grasses and gentle hills, rendered in cool blues and soft whites."
     },
-    "ethereal-glow": {
-      "order": 3,   
-      "price": "£450",
-      "medium": "Acrylic on canvas",
-      "size": "30x25 cm",
-      "description": "A dreamy landscape bathed in soft, ethereal light, capturing the magic of a summer evening."
-    },
-    "glow-across-the-fields": {
-      "order": 4, 
-      "price": "£400",
-      "medium": "Acrylic on canvas",
-      "size": "30x25 cm",
-      "description": "A vibrant landscape with a glowing sky, reflecting the energy and beauty of a summer day."
-    },
-    "golden-field": {
-      "order": 5, 
-      "price": "£450",
-      "medium": "Acrylic on canvas",
-      "size": "30x25 cm",
-      "description": "A winter scene capturing the quiet stillness of the art tower under heavy snowfall."
-    },
-    "golden-linen-stacks": {
-      "order": 6,
+    "scent-of-summer": {
+      "order": 16,  
       "price": "£380",
       "medium": "Acrylic on canvas",
       "size": "30x25 cm",
-      "description": "A vibrant landscape with a glowing sky, reflecting the energy and beauty of a summer day."
+      "description": "A vibrant landscape capturing the scent of summer, with blooming flowers and lush greenery, rendered in cool blues and soft whites."
     },
-    "harvest": {
-      "order": 7, 
-      "price": "£400",
+    "across-the-quite-land": {
+      "order": 17,  
+      "price": "£380",
       "medium": "Acrylic on canvas",
       "size": "30x25 cm",
-      "description": "A scene of a bountiful harvest, with golden fields and ripe crops, celebrating the abundance of nature."
+      "description": "A peaceful landscape of a quiet land, with soft grasses and gentle hills, rendered in cool blues and soft whites."
     },
-    "jaunpils-castle": {
-        "order": 8,
-        "price": "£400",
-        "medium": "Acrylic on canvas",
-        "size": "30x25 cm",
-        "description": "A majestic castle surrounded by lush greenery, rendered in cool blues and soft whites."
+    "burnham-overly-staithe-windmill": {
+      "order": 18,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A serene landscape of the Burbham Overly Windmill, with rolling hills and a peaceful atmosphere, rendered in cool blues and soft whites."
     },
-    "lavardens": {
-        "order": "9",
-        "price": "£400",
-        "medium": "Acrylic on canvas",
-        "size": "30x25 cm",
-        "description": "A charming manor house nestled in a serene landscape, rendered in cool blues and soft whites."
+    "warm-days-in-the-meadows": {
+      "order": 19,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A vibrant landscape of warm days in the meadows, with bright sunlight and lush greenery, rendered in cool blues and soft whites."
     },
-    "lighthouse": {
-        "order": 10,
-        "price": "£400",
-        "medium": "Acrylic on canvas",
-        "size": "30x25 cm",
-        "description": "A lighthouse standing tall against a backdrop of a stormy sea, rendered in cool blues and soft whites."
+    "where-memories-live": {
+      "order": 20,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A nostalgic landscape of where memories live, with soft grasses and gentle hills, rendered in cool blues and soft whites."
+    },
+    "summer-light": {
+      "order": 21,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A vibrant landscape of summer light, with bright sunlight and lush greenery, rendered in cool blues and soft whites."
+    },
+    "beneath-the-suffolk-sky": {
+      "order": 22,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A serene landscape of the Suffolk sky, with rolling hills and a peaceful atmosphere, rendered in cool blues and soft whites."
+    },
+    "golden-fields": {
+      "order": 23,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A vibrant landscape of golden fields, with bright sunlight and lush greenery, rendered in cool blues and soft whites."
+    },
+    "view-form-the-path": {
+      "order": 24,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A peaceful landscape of a view from the path, with soft grasses and gentle hills, rendered in cool blues and soft whites."
+    },
+    "levington-creek": {
+      "order": 25,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A serene landscape of Levington Creek, with rolling hills and a peaceful atmosphere, rendered in cool blues and soft whites."
+    },
+    "august": {
+      "order": 26,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A vibrant landscape of August, with bright sunlight and lush greenery, rendered in cool blues and soft whites."
+    },
+    "fields-of-yellow": {
+      "order": 27,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A serene landscape of Levington Creek, with rolling hills and a peaceful atmosphere, rendered in cool blues and soft whites."
+    },
+    "norfolk-mist": {
+      "order": 28,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A tranquil landscape of Norfolk mist, with soft grasses and gentle hills, rendered in cool blues and soft whites."
+    },
+    "dunwich-heat": {
+      "order": 29,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A vibrant landscape of Dunwich heat, with bright sunlight and lush greenery, rendered in cool blues and soft whites."
+    },
+    "evening-sun": {
+      "order": 30,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A peaceful landscape of an evening sun, with soft grasses and gentle hills, rendered in cool blues and soft whites."
+    },
+    "coton": {
+      "order": 31,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A serene landscape of Coton, with rolling hills and a peaceful atmosphere, rendered in cool blues and soft whites."
+    },
+    "echoes-of-the-breeze": {
+      "order": 32,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A vibrant landscape of echoes of the breeze, with bright sunlight and lush greenery, rendered in cool blues and soft whites."
+    },
+    "countryside-calm": {
+      "order": 33,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A peaceful landscape of countryside calm, with soft grasses and gentle hills, rendered in cool blues and soft whites."
+    },
+    "amber-waves": {
+      "order": 34,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A sea of sun-drenched grain rippling in a warm, breathless golden hour"
     },
     "meadow-serenity": {
-        "order": 11,
+        "order": 35,
         "price": "£400",
         "medium": "Acrylic on canvas",
         "size": "30x25 cm",
         "description": "A tranquil meadow scene, with soft grasses and gentle hills, rendered in cool blues and soft whites."
     },
-    "moonlit-meadows": {
-        "order": 12,
+    "lavardens": {
+        "order": 36,
         "price": "£400",
         "medium": "Acrylic on canvas",
         "size": "30x25 cm",
-        "description": "A serene landscape bathed in moonlight, with soft grasses and gentle hills, rendered in cool blues and soft whites."
+        "description": "A charming manor house nestled in a serene landscape, rendered in cool blues and soft whites."
     },
-    "nostalgia": {
-        "order": 13,
+    "rural-elegance": {
+        "order": 37,
         "price": "£400",
         "medium": "Acrylic on canvas",
         "size": "30x25 cm",
-        "description": "A nostalgic scene of a quiet village street, with quaint houses and a peaceful atmosphere, rendered in cool blues and soft whites."
+        "description": "An elegant rural scene, with a quaint farmhouse and rolling hills, rendered in cool blues and soft whites."
     },
-    "path-to-serenity": {
-        "order": 14,
-        "price": "£400",
-        "medium": "Acrylic on canvas",
-        "size": "30x25 cm",
-        "description": "A peaceful path winding through a serene landscape, with soft grasses and gentle hills, rendered in cool blues and soft whites."
-    },
-    "rural-charm": {
-        "order": 15,
-        "price": "£400",
-        "medium": "Acrylic on canvas",
-        "size": "30x25 cm",
-        "description": "A charming rural scene, with a quaint farmhouse and rolling hills, rendered in cool blues and soft whites."
-    },
-    "seasons-of-change": {
-        "order": 16,
-        "price": "£400",
-        "medium": "Acrylic on canvas",
-        "size": "30x25 cm",
-        "description": "A landscape depicting the changing seasons, with vibrant colors and dynamic brushstrokes, rendered in cool blues and soft whites."
-    },
-    "shaeep-in-the-golden-fields": {
-        "order": 17,
-        "price": "£400",
-        "medium": "Acrylic on canvas",
-        "size": "30x25 cm",
-        "description": "A peaceful scene of sheep grazing in golden fields, with soft grasses and gentle hills, rendered in cool blues and soft whites."
-    },
-    "spring": {
-        "order": 18,
-        "price": "£400",
-        "medium": "Acrylic on canvas",
-        "size": "30x25 cm",
-        "description": "A vibrant spring landscape, with blooming flowers and lush greenery, rendered in cool blues and soft whites."
-    },
-    "stonehenge-in-smiltene": {
-        "order": 19,
-        "price": "£400",
-        "medium": "Acrylic on canvas",
-        "size": "30x25 cm",
-        "description": "A mystical scene of Stonehenge in Smiltene, with ancient stones standing tall against a backdrop of a serene landscape, rendered in cool blues and soft whites."
-    },
-    "storm": {
-        "order": 20,
-        "price": "£400",
-        "medium": "Acrylic on canvas",
-        "size": "30x25 cm",
-        "description": "A dramatic stormy landscape, with dark clouds and turbulent skies, rendered in cool blues and soft whites."
-    },
-    "summder-day": {
-        "order": 21,
-        "price": "£400",
-        "medium": "Acrylic on canvas",
-        "size": "30x25 cm",
-        "description": "A vibrant summer day scene, with bright sunlight and lush greenery, rendered in cool blues and soft whites."
-    },
-    "sunlit-petals": {
-        "order": 22,
-        "price": "£400",
-        "medium": "Acrylic on canvas",
-        "size": "30x25 cm",
-        "description": "A close-up of sunlit petals, with vibrant colors and delicate details, rendered in cool blues and soft whites."
+    "the-moment": {
+      "order": 38,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "The cool, silver clarity of first light"
     },
     "the-stillness-of-the-land": {
-        "order": 23,
+        "order": 39,
         "price": "£400",
         "medium": "Acrylic on canvas",
         "size": "30x25 cm",
         "description": "Golden light spills across a dormant field, catching the individual blades of frosted amber grass. "
     },
-    "thornham-old-harbour": {
-        "order": 24,
-        "price": "£400",
-        "medium": "Acrylic on canvas",
-        "size": "30x25 cm",
-        "description": "A painting of Thornham Old Harbour at low tide captures a rugged, coastal stillness unique to the North Norfolk shore."
+    "endless-fields-of-gold": {
+      "order": 40,  
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A golden field under a bright blue sky, evoking the warmth and abundance of summer."
     },
-    "thurne_mill": {
-        "order": 25,
+    "glow-across-the-fields": {
+      "order": 41, 
+      "price": "£400",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A vibrant landscape with a glowing sky, reflecting the energy and beauty of a summer day."
+    },
+    "golden-linen-stacks": {
+      "order": 42,
+      "price": "£380",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A vibrant landscape with a glowing sky, reflecting the energy and beauty of a summer day."
+    },
+    "sunlit-petals": {
+        "order": 43,
         "price": "£400",
         "medium": "Acrylic on canvas",
         "size": "30x25 cm",
-        "description": "A white sentinel standing silent against a vast, mirrored horizon of reeds and water."
-    },"village": {
-        "order": 26,
+        "description": "A close-up of sunlit petals, with vibrant colors and delicate details, rendered in cool blues and soft whites."
+    },
+    "seasons-of-change": {
+      "order": 44,
+      "price": "£400",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A landscape depicting the changing seasons, with vibrant colors and dynamic brushstrokes, rendered in cool blues and soft whites."
+    },
+    "summer-day": {
+      "order": 45,
+      "price": "£400",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A vibrant summer day scene, with bright sunlight and lush greenery, rendered in cool blues and soft whites."
+    },
+    "shaeep-in-the-golden-fields": {
+        "order": 46,
+        "price": "£400",
+        "medium": "Acrylic on canvas",
+        "size": "30x25 cm",
+        "description": "A peaceful scene of sheep grazing in golden fields, with soft grasses and gentle hills, rendered in cool blues and soft whites."
+    },
+    "fields-of-amber": {
+        "order": 47,
+        "price": "£400",
+        "medium": "Acrylic on canvas",
+        "size": "30x25 cm",
+        "description": "Dense, honey-hued stalks of wheat or barley, ripe and shimmering with metallic warmth."
+    },
+    "whispers-of-wild": {
+        "order": 48,
+        "price": "£400",
+        "medium": "Acrylic on canvas",
+        "size": "30x25 cm",
+        "description": "A tangled symphony of shadows where light dances through the secrets of the deep woods."
+    },
+    "rural-charm": {
+        "order": 49,
+        "price": "£400",
+        "medium": "Acrylic on canvas",
+        "size": "30x25 cm",
+        "description": "A charming rural scene, with a quaint farmhouse and rolling hills, rendered in cool blues and soft whites."
+    },
+    "ethereal-glow": {
+      "order": 50,   
+      "price": "£450",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A dreamy landscape bathed in soft, ethereal light, capturing the magic of a summer evening."
+    },
+    "moonlit-meadows": {
+        "order": 51,
+        "price": "£400",
+        "medium": "Acrylic on canvas",
+        "size": "30x25 cm",
+        "description": "A serene landscape bathed in moonlight, with soft grasses and gentle hills, rendered in cool blues and soft whites."
+    },
+    "simplicity-in-silence": {
+        "order": 52,
+        "price": "£400",
+        "medium": "Acrylic on canvas",
+        "size": "30x25 cm",
+        "description": "A solitary home anchored in a vast, emerald clearing, watched over by a distant circle of silent, leafy giants."
+    },
+    "path-to-serenity": {
+      "order": 53,
+      "price": "£400",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A peaceful path winding through a serene landscape, with soft grasses and gentle hills, rendered in cool blues and soft whites."
+    },
+    "golden-field": {
+      "order": 54, 
+      "price": "£450",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A winter scene capturing the quiet stillness of the art tower under heavy snowfall."
+    },
+    "the-kuldiga-bridge": {
+      "order": 55, 
+      "price": "£450",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "An ancient span of red brick arching gracefully over the rushing white foam of the Venta Rapid."
+    },
+    "village": {
+        "order": 56,
         "price": "£400",
         "medium": "Acrylic on canvas",
         "size": "30x25 cm",
         "description": "A village"
     },
-    "whispers-of-wild": {
-        "order": 27,
+    "jaunpils-castle": {
+      "order": 57,
+      "price": "£400",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A majestic castle surrounded by lush greenery, rendered in cool blues and soft whites."
+    },
+    "harvest": {
+      "order": 58, 
+      "price": "£400",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A scene of a bountiful harvest, with golden fields and ripe crops, celebrating the abundance of nature."
+    },
+    "spring": {
+      "order": 59,
+      "price": "£400",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A vibrant spring landscape, with blooming flowers and lush greenery, rendered in cool blues and soft whites."
+    },
+    "stonehenge-in-smiltene": {
+        "order": 60,
         "price": "£400",
         "medium": "Acrylic on canvas",
         "size": "30x25 cm",
-        "description": "A tangled symphony of shadows where light dances through the secrets of the deep woods."
+        "description": "A mystical scene of Stonehenge in Smiltene, with ancient stones standing tall against a backdrop of a serene landscape, rendered in cool blues and soft whites."
+    },
+    "happisburgh-lighthouse": {
+        "order": 61,
+        "price": "£400",
+        "medium": "Acrylic on canvas",
+        "size": "30x25 cm",
+        "description": "A lighthouse standing tall against a backdrop of a stormy sea, rendered in cool blues and soft whites."
+    },
+    "thornham-old-harbour": {
+      "order": 62,
+      "price": "£400",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "A painting of Thornham Old Harbour at low tide captures a rugged, coastal stillness unique to the North Norfolk shore."
+  },
+    "a-winter-evening": {
+      "order": 63,
+      "price": "£400",
+      "medium": "Acrylic on canvas",
+      "size": "30x25 cm",
+      "description": "Deep indigos and bruised purples in the sky contrasting with blue-shadowed snow.."
+   },
+    "nostalgia": {
+        "order": 64,
+        "price": "£400",
+        "medium": "Acrylic on canvas",
+        "size": "30x25 cm",
+        "description": "A nostalgic scene of a quiet village street, with quaint houses and a peaceful atmosphere, rendered in cool blues and soft whites."
     }
 }
