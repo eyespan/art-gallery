@@ -111,14 +111,14 @@
       "size": "30x25 cm",
       "description": "A vibrant landscape capturing the scent of summer, with blooming flowers and lush greenery, rendered in cool blues and soft whites."
     },
-    "across-the-quite-land": {
+    "across-the-quiet-land": {
       "order": 17,  
       "price": "£380",
       "medium": "Acrylic on canvas",
       "size": "30x25 cm",
       "description": "A peaceful landscape of a quiet land, with soft grasses and gentle hills, rendered in cool blues and soft whites."
     },
-    "burnham-overly-staithe-windmill": {
+    "burnham-overly-windmill": {
       "order": 18,  
       "price": "£380",
       "medium": "Acrylic on canvas",
@@ -314,7 +314,7 @@
       "size": "30x25 cm",
       "description": "A vibrant summer day scene, with bright sunlight and lush greenery, rendered in cool blues and soft whites."
     },
-    "shaeep-in-the-golden-fields": {
+    "sheep-in-the-golden-fields": {
         "order": 46,
         "price": "£400",
         "medium": "Acrylic on canvas",
