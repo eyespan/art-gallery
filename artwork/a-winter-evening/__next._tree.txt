@@ -1,5 +1,5 @@
 :HL["/_next/static/chunks/567ed7e0d09bf743.css","style"]
 :HL["/_next/static/media/01e4147cff8141ee-s.p.7787e134.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/ad85ec941b4c8b5c-s.p.abd41f7e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/art-gallery/artworks/originals/a-winter-evening.jpg","image"]
-0:{"buildId":"338E9mP3DDnniOlfq63rh","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"artwork","paramType":null,"paramKey":"artwork","hasRuntimePrefetch":false,"slots":{"children":{"name":"id","paramType":"d","paramKey":"a-winter-evening","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/artworks/originals/a-winter-evening.jpg","image"]
+0:{"buildId":"tgleh6Qcmsn8kf4Ts6JBj","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"artwork","paramType":null,"paramKey":"artwork","hasRuntimePrefetch":false,"slots":{"children":{"name":"id","paramType":"d","paramKey":"a-winter-evening","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
