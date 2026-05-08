@@ -27,8 +27,8 @@ export function getArtworks(): Artwork[] {
       return {
         id: name,
         title,
-        image: `artworks/originals/${file}`,
-        thumbnail: `artworks/thumbs/${file}`,
+        image: `/artworks/originals/${file}`,
+        thumbnail: `/artworks/thumbs/${file}`,
         order: Number(data?.order ?? 999),
         price: data?.price ?? "£POA",
         description: data?.description ?? "Original landscape painting. Please enquire for more details.",
