@@ -111,7 +111,7 @@ export default function ContactPage() {
               Email
             </p>
             <a
-              href="mailto:hello@lklandscapeart.com"
+              href="mailto:lklandscapeart@gmail.com"
               style={{ fontSize: "1rem", color: "#2c5f6e", textDecoration: "none" }}
             >
               {/* Replace with real email */}
