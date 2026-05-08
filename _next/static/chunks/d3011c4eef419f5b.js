@@ -1,4 +1,4 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,47604,r=>{"use strict";var a=r.i(43476);function e({artworks:r}){return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)("div",{className:"gallery-grid",children:r.map(r=>(0,a.jsxs)("a",{href:`/art-gallery/artwork/${r.id}`,className:"gallery-card",children:[(0,a.jsx)("img",{src:`/art-gallery/${r.thumbnail}`,alt:r.title,className:"gallery-card-img"}),(0,a.jsx)("p",{className:"gallery-card-title",children:r.title})]},r.id))}),(0,a.jsx)("style",{children:`
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,47604,r=>{"use strict";var e=r.i(43476);function a({artworks:r}){return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)("div",{className:"gallery-grid",children:r.map(r=>(0,e.jsxs)("a",{href:`/artwork/${r.id}`,className:"gallery-card",children:[(0,e.jsx)("img",{src:`/${r.thumbnail}`,alt:r.title,className:"gallery-card-img"}),(0,e.jsx)("p",{className:"gallery-card-title",children:r.title})]},r.id))}),(0,e.jsx)("style",{children:`
         .gallery-grid {
           display: grid;
           grid-template-columns: repeat(3, 1fr);
@@ -55,4 +55,4 @@
             padding: 1rem;
           }
         }
-      `})]})}r.s(["default",()=>e])}]);
+      `})]})}r.s(["default",()=>a])}]);
