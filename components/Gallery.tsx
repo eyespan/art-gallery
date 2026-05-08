@@ -9,11 +9,11 @@ export default function Gallery({ artworks }: { artworks: Artwork[] }) {
         {artworks.map((art) => (
           <a
             key={art.id}
-            href={`/art-gallery/artwork/${art.id}`}
+            href={`/artwork/${art.id}`}
             className="gallery-card"
           >
             <img
-              src={`/art-gallery/${art.thumbnail}`}
+              src={`/${art.thumbnail}`}
               alt={art.title}
               className="gallery-card-img"
             />

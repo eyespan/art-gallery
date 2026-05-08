@@ -56,7 +56,7 @@ export default function HeroScroll({ artworks }: { artworks: Artwork[] }) {
         {artworks.map((art) => (
           <a
             key={art.id}
-            href={`/art-gallery/artwork/${art.id}`}
+            href={`/artwork/${art.id}`}
             style={{
               flexShrink: 0,
               scrollSnapAlign: "start",
@@ -78,7 +78,7 @@ export default function HeroScroll({ artworks }: { artworks: Artwork[] }) {
             }}
           >
             <img
-              src={`/art-gallery/${art.thumbnail}`}
+              src={`/${art.thumbnail}`}
               alt={art.title}
               style={{
                 width: "100%",
