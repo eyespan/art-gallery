@@ -76,7 +76,7 @@ export default async function ArtworkPage({
         {/* Left — Image */}
         <div className="artwork-image-col">
           <img
-            src={`/art-gallery/${art.image}`}
+            src={`/${art.image}`}
             alt={art.title}
             style={{
               width: "100%",

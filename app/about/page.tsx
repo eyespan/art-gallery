@@ -59,7 +59,7 @@ export default function AboutPage() {
             position: "relative",
           }}>
             {/* Replace with: <img src="/art-gallery/artist-photo.jpg" alt="lklandscape" style={{width:"100%",height:"100%",objectFit:"cover"}} /> */}
-            <Image src="/art-gallery/liga-artist-profile.jpg" alt="lklandscape"  fill style={{ objectFit: 'cover' }} /> 
+            <Image src="/liga-artist-profile.jpg" alt="lklandscape"  fill style={{ objectFit: 'cover' }} /> 
             <span>Artist Photo</span>
           </div>
           <p style={{
