@@ -115,7 +115,7 @@ export default function ContactPage() {
               style={{ fontSize: "1rem", color: "#2c5f6e", textDecoration: "none" }}
             >
               {/* Replace with real email */}
-              hello@lklandscapeart.com
+              lklandscapeart@gmail.com
             </a>
           </div>
 
