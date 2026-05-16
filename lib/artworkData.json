@@ -368,7 +368,7 @@
       "price": "£350",
       "medium": "Acrylic on canvas",
       "size": "23 x 30 cm",
-      "description": "A peaceful path winding through a serene landscape, with soft grasses and gentle hills, rendered in cool blues and soft whites."
+      "description": "Path To Serenity captures a bright countryside landscape where a lone tall birch tree stands over a curving path and sunlit fields."
     },
     "golden-field": {
       "order": 54, 
@@ -389,42 +389,42 @@
         "price": "£325",
         "medium": "Acrylic on canvas",
         "size": "23 x 30 cm",
-        "description": "A village"
+        "description": "A quiet rural landscape where a vast field of tall grasses and wildflowers opens up toward a small countryside settlement."
     },
     "jaunpils-castle": {
       "order": 57,
       "price": "£325",
       "medium": "Acrylic on canvas",
       "size": "23 x 30 cm",
-      "description": "A majestic castle surrounded by lush greenery, rendered in cool blues and soft whites."
+      "description": "A historic majestic castle  with a distinct round tower standing next to a quiet river under a bright blue sky."
     },
     "harvest": {
       "order": 58, 
       "price": "£325",
       "medium": "Acrylic on canvas",
       "size": "23 x 30 cm",
-      "description": "A scene of a bountiful harvest, with golden fields and ripe crops, celebrating the abundance of nature."
+      "description": "This landscape painting captures a glowing, amber harvest field dotted with rolled hay bales under an expansive sky"
     },
     "spring": {
       "order": 59,
       "price": "£320",
       "medium": "Acrylic on canvas",
       "size": "23 x 30 cm",
-      "description": "A vibrant spring landscape, with blooming flowers and lush greenery, rendered in cool blues and soft whites."
+      "description": "This landscape painting is inspired by travels to the Baltics and captures a bright Spring day with an old wooden farmhouse flanked by blooming purple lilacs and tall birch trees along a winding country path."
     },
     "stonehenge-in-smiltene": {
         "order": 60,
         "price": "£325",
         "medium": "Acrylic on canvas",
         "size": "23 x 30 cm",
-        "description": "A mystical scene of Stonehenge in Smiltene, with ancient stones standing tall against a backdrop of a serene landscape, rendered in cool blues and soft whites."
+        "description": "A mystical scene of Stonehenge in Smiltene, with ancient stones standing tall against a backdrop of a serene landscape."
     },
     "happisburgh-lighthouse": {
         "order": 61,
         "price": "£340",
         "medium": "Acrylic on canvas",
         "size": "23 x 30 cm",
-        "description": "A lighthouse standing tall against a backdrop of a stormy sea, rendered in cool blues and soft whites."
+        "description": "This landscape painting captures Happisburgh Lighthouse in Norfolk rising from a golden wheat field under a light blue sky."
     },
     "thornham-old-harbour": {
       "order": 62,
@@ -438,13 +438,13 @@
       "price": "£295",
       "medium": "Acrylic on canvas",
       "size": "23 x 30 cm",
-      "description": "Deep indigos and bruised purples in the sky contrasting with blue-shadowed snow.."
+      "description": "Deep indigos and bruised purples in the sky contrasting with blue-shadowed snow."
    },
     "nostalgia": {
         "order": 64,
         "price": "£325",
         "medium": "Acrylic on canvas",
         "size": "25 x 30 cm",
-        "description": "A nostalgic scene of a quiet village street, with quaint houses and a peaceful atmosphere, rendered in cool blues and soft whites."
+        "description": "A nostalgic scene of a quiet village street, with quaint houses and a peaceful atmosphere"
     }
 }
