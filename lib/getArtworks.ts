@@ -21,7 +21,10 @@ export function getArtworks(): Artwork[] {
   return files
     .map((file) => {
       const name = file.replace(/\.[^/.]+$/, "");
-      const title = name.replace(/-/g, " ").replace(/\b\w/g, l => l.toUpperCase());
+      /*const title = name.replace(/-/g, " ").replace(/\b\w/g, l => l.toUpperCase());*/
+      const title = name
+          .replace(/-/g, " ")
+          .replace(/(^|\s)\w/g, l => l.toUpperCase());
       const data = artworkData[name as keyof typeof artworkData];
 
       return {
