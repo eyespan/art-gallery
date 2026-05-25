@@ -446,5 +446,12 @@
         "medium": "Acrylic on canvas board unframed",
         "size": "25 x 30 cm",
         "description": "This landscape painting captures a nostalgic scene of an old rural homestead, inspired by travels to the Baltics, featuring quaint rustic houses and a peaceful atmosphere."
+    },
+    "summer-meadow": {
+        "order": 65,
+        "price": "£325",
+        "medium": "Acrylic on canvas board unframed",
+        "size": "25 x 30 cm",
+        "description": "A suffolk countryside painting featuring sweeping green fields, delicate wildflowers, and distant tree lines under a bright summer sky."
     }
 }
