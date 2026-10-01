@@ -1,0 +1,656 @@
+{
+  "root": {
+    "parent": "none",
+    "resource": "root.glb",
+    "template": "T_root_school_B.glb",
+    "Coastal & Villages": {
+      "resource": "Coastal & Villages.glb",
+      "resource_type": "door"
+    },
+    "Meadows & Paths": {
+      "resource": "Meadows & Paths.glb",
+      "resource_type": "door"
+    },
+    "Summer Fields": {
+      "resource": "Summer Fields.glb",
+      "resource_type": "door"
+    },
+    "Winter Light": {
+      "resource": "Winter Light.glb",
+      "resource_type": "door"
+    },
+    "Baltics": {
+      "resource": "Baltics.glb",
+      "resource_type": "door"
+    }
+  },
+  "Coastal & Villages": {
+    "parent": "root",
+    "resource": "Coastal & Villages.glb",
+    "template": "T_pannels_school_B.glb",
+    "weston-colville": {
+      "resource": "/Coastal & Villages/weston-colville.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "100.78",
+      "location": "[8.990,15.100,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #0 weston-colville"
+    },
+    "countryside-calm": {
+      "resource": "/Coastal & Villages/countryside-calm.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.90",
+      "location": "[8.990,8.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #1 countryside-calm"
+    },
+    "coton": {
+      "resource": "/Coastal & Villages/coton.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "89.60",
+      "location": "[8.990,0.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #2 coton"
+    },
+    "fields-of-amber": {
+      "resource": "/Coastal & Villages/fields-of-amber.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "89.55",
+      "location": "[8.990,-8.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #3 fields-of-amber"
+    },
+    "where-memories-live": {
+      "resource": "/Coastal & Villages/where-memories-live.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "95.31",
+      "location": "[8.990,-15.100,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #4 where-memories-live"
+    },
+    "echoes-of-the-breeze": {
+      "resource": "/Coastal & Villages/echoes-of-the-breeze.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.92",
+      "location": "[-8.990,11.100,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #5 echoes-of-the-breeze"
+    },
+    "costwold-in-bloom": {
+      "resource": "/Coastal & Villages/costwold-in-bloom.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "99.18",
+      "location": "[-8.990,2.600,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #6 costwold-in-bloom"
+    },
+    "whispers-of-wild": {
+      "resource": "/Coastal & Villages/whispers-of-wild.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.22",
+      "location": "[-8.990,-5.900,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #7 whispers-of-wild"
+    },
+    "fields-of-yellow": {
+      "resource": "/Coastal & Villages/fields-of-yellow.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "94.17",
+      "location": "[-8.990,-14.400,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #8 fields-of-yellow"
+    },
+    "sheep-in-the-golden-fields": {
+      "resource": "/Coastal & Villages/sheep-in-the-golden-fields.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.31",
+      "location": "[5.200,16.990,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #9 sheep-in-the-golden-fields"
+    },
+    "happisburgh-lighthouse": {
+      "resource": "/Coastal & Villages/happisburgh-lighthouse.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.22",
+      "location": "[-5.200,16.990,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #10 happisburgh-lighthouse"
+    },
+    "the-stillness-of-the-land": {
+      "resource": "/Coastal & Villages/the-stillness-of-the-land.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.04",
+      "location": "[6.017,-16.990,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #11 the-stillness-of-the-land"
+    },
+    "norfolk-mist": {
+      "resource": "/Coastal & Villages/norfolk-mist.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "95.80",
+      "location": "[-2.900,-16.990,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #12 norfolk-mist"
+    },
+    "rural-charm": {
+      "resource": "/Coastal & Villages/rural-charm.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.22",
+      "location": "[1.750,-2.340,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #13 rural-charm"
+    },
+    "castle-farm-kent": {
+      "resource": "/Coastal & Villages/castle-farm-kent.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "100.90",
+      "location": "[-1.750,-2.660,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #14 castle-farm-kent"
+    },
+    "evening-sun": {
+      "resource": "/Coastal & Villages/evening-sun.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.02",
+      "location": "[-1.750,-2.340,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #15 evening-sun"
+    },
+    "village": {
+      "resource": "/Coastal & Villages/village.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.22",
+      "location": "[1.750,-2.660,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #16 village"
+    },
+    "dunwich-heat": {
+      "resource": "/Coastal & Villages/dunwich-heat.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.24",
+      "location": "[2.583,-16.990,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #17 dunwich-heat"
+    },
+    "beneath-the-suffolk-sky": {
+      "resource": "/Coastal & Villages/beneath-the-suffolk-sky.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "94.69",
+      "location": "[-8.990,14.400,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #18 beneath-the-suffolk-sky"
+    },
+    "thornham-old-harbour": {
+      "resource": "/Coastal & Villages/thornham-old-harbour.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.22",
+      "location": "[-8.990,5.900,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #19 thornham-old-harbour"
+    },
+    "burnham-overy-windmill": {
+      "resource": "/Coastal & Villages/burnham-overy-windmill.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "95.40",
+      "location": "[-8.990,-2.600,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #20 burnham-overy-windmill"
+    },
+    "somewhere": {
+      "resource": "/Coastal & Villages/somewhere.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "100.11",
+      "location": "[-8.990,-11.100,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #21 somewhere"
+    },
+    "root": {
+      "resource": "root.glb",
+      "resource_type": "door"
+    }
+  },
+  "Meadows & Paths": {
+    "parent": "root",
+    "resource": "Meadows & Paths.glb",
+    "template": "T_pannels_school_B.glb",
+    "glow-across-the-fields": {
+      "resource": "/Meadows & Paths/glow-across-the-fields.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.27",
+      "location": "[8.990,15.100,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #22 glow-across-the-fields"
+    },
+    "sunlit-petals": {
+      "resource": "/Meadows & Paths/sunlit-petals.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.65",
+      "location": "[8.990,8.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #23 sunlit-petals"
+    },
+    "suffolk-meadows": {
+      "resource": "/Meadows & Paths/suffolk-meadows.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "99.97",
+      "location": "[8.990,0.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #24 suffolk-meadows"
+    },
+    "the-view-from-the-other-side": {
+      "resource": "/Meadows & Paths/the-view-from-the-other-side.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "99.38",
+      "location": "[8.990,-8.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #25 the-view-from-the-other-side"
+    },
+    "nature's-journey": {
+      "resource": "/Meadows & Paths/nature's-journey.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "95.70",
+      "location": "[8.990,-15.100,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #26 nature's-journey"
+    },
+    "the-dandelion-field": {
+      "resource": "/Meadows & Paths/the-dandelion-field.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "101.40",
+      "location": "[-8.990,11.100,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #27 the-dandelion-field"
+    },
+    "endless-fields-of-gold": {
+      "resource": "/Meadows & Paths/endless-fields-of-gold.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.35",
+      "location": "[-8.990,2.600,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #28 endless-fields-of-gold"
+    },
+    "the-moment": {
+      "resource": "/Meadows & Paths/the-moment.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "89.40",
+      "location": "[-8.990,-5.900,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #29 the-moment"
+    },
+    "ethereal-glow": {
+      "resource": "/Meadows & Paths/ethereal-glow.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "87.45",
+      "location": "[-8.990,-14.400,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #30 ethereal-glow"
+    },
+    "seasons-of-change": {
+      "resource": "/Meadows & Paths/seasons-of-change.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "100.72",
+      "location": "[5.200,16.990,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #31 seasons-of-change"
+    },
+    "nostalgia": {
+      "resource": "/Meadows & Paths/nostalgia.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "99.30",
+      "location": "[-5.200,16.990,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #32 nostalgia"
+    },
+    "simplicity-in-silence": {
+      "resource": "/Meadows & Paths/simplicity-in-silence.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.08",
+      "location": "[6.017,-16.990,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #33 simplicity-in-silence"
+    },
+    "across-the-quiet-land": {
+      "resource": "/Meadows & Paths/across-the-quiet-land.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "100.13",
+      "location": "[-2.900,-16.990,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #34 across-the-quiet-land"
+    },
+    "summer-meadow": {
+      "resource": "/Meadows & Paths/summer-meadow.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "99.30",
+      "location": "[1.750,-2.340,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #35 summer-meadow"
+    },
+    "warm-days-in-the-meadow": {
+      "resource": "/Meadows & Paths/warm-days-in-the-meadow.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "101.10",
+      "location": "[-1.750,-2.660,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #36 warm-days-in-the-meadow"
+    },
+    "path-to-serenity": {
+      "resource": "/Meadows & Paths/path-to-serenity.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.20",
+      "location": "[-1.750,-2.340,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #37 path-to-serenity"
+    },
+    "light-between-the-birches": {
+      "resource": "/Meadows & Paths/light-between-the-birches.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "100.88",
+      "location": "[1.750,-2.660,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #38 light-between-the-birches"
+    },
+    "spring": {
+      "resource": "/Meadows & Paths/spring.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.20",
+      "location": "[2.583,-16.990,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #39 spring"
+    },
+    "grantchester-meadows": {
+      "resource": "/Meadows & Paths/grantchester-meadows.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "99.08",
+      "location": "[-8.990,14.400,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #40 grantchester-meadows"
+    },
+    "view-from-the-path": {
+      "resource": "/Meadows & Paths/view-from-the-path.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "100.50",
+      "location": "[-8.990,5.900,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #41 view-from-the-path"
+    },
+    "moonlit-meadows": {
+      "resource": "/Meadows & Paths/moonlit-meadows.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.20",
+      "location": "[-8.990,-2.600,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #42 moonlit-meadows"
+    },
+    "meadow-serenity": {
+      "resource": "/Meadows & Paths/meadow-serenity.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.20",
+      "location": "[-8.990,-11.100,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #43 meadow-serenity"
+    },
+    "root": {
+      "resource": "root.glb",
+      "resource_type": "door"
+    }
+  },
+  "Summer Fields": {
+    "parent": "root",
+    "resource": "Summer Fields.glb",
+    "template": "T_pannels_school_B.glb",
+    "harvest": {
+      "resource": "/Summer Fields/harvest.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.20",
+      "location": "[8.990,15.100,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #44 harvest"
+    },
+    "lavardens": {
+      "resource": "/Summer Fields/lavardens.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.20",
+      "location": "[8.990,8.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #45 lavardens"
+    },
+    "scent-of-summer": {
+      "resource": "/Summer Fields/scent-of-summer.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "101.03",
+      "location": "[8.990,0.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #46 scent-of-summer"
+    },
+    "levington-creek": {
+      "resource": "/Summer Fields/levington-creek.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "102.00",
+      "location": "[8.990,-8.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #47 levington-creek"
+    },
+    "august": {
+      "resource": "/Summer Fields/august.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "95.25",
+      "location": "[8.990,-15.100,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #48 august"
+    },
+    "summer-light": {
+      "resource": "/Summer Fields/summer-light.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.88",
+      "location": "[-8.990,12.750,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #49 summer-light"
+    },
+    "where-the-storks-gather": {
+      "resource": "/Summer Fields/where-the-storks-gather.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "100.13",
+      "location": "[-8.990,4.250,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #50 where-the-storks-gather"
+    },
+    "amber-waves": {
+      "resource": "/Summer Fields/amber-waves.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.60",
+      "location": "[-8.990,-4.250,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #51 amber-waves"
+    },
+    "rural-elegance": {
+      "resource": "/Summer Fields/rural-elegance.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "95.85",
+      "location": "[-8.990,-12.750,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #52 rural-elegance"
+    },
+    "golden-fields": {
+      "resource": "/Summer Fields/golden-fields.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.20",
+      "location": "[5.200,16.990,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #53 golden-fields"
+    },
+    "golden-linen-stacks": {
+      "resource": "/Summer Fields/golden-linen-stacks.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.30",
+      "location": "[-5.200,16.990,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #54 golden-linen-stacks"
+    },
+    "summer-day": {
+      "resource": "/Summer Fields/summer-day.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "95.33",
+      "location": "[4.300,-16.990,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #55 summer-day"
+    },
+    "root": {
+      "resource": "root.glb",
+      "resource_type": "door"
+    }
+  },
+  "Winter Light": {
+    "parent": "root",
+    "resource": "Winter Light.glb",
+    "template": "T_pannels_school_B.glb",
+    "a-winter-evening": {
+      "resource": "/Winter Light/a-winter-evening.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.35",
+      "location": "[8.990,15.100,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #56 a-winter-evening"
+    },
+    "twilight-over-frozen-meadows": {
+      "resource": "/Winter Light/twilight-over-frozen-meadows.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "99.30",
+      "location": "[8.990,8.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #57 twilight-over-frozen-meadows"
+    },
+    "winter-light-over-the-hills": {
+      "resource": "/Winter Light/winter-light-over-the-hills.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "99.83",
+      "location": "[8.990,0.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #58 winter-light-over-the-hills"
+    },
+    "winter-in-woodlands": {
+      "resource": "/Winter Light/winter-in-woodlands.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "99.97",
+      "location": "[8.990,-8.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #59 winter-in-woodlands"
+    },
+    "a-quiet-winter-evening": {
+      "resource": "/Winter Light/a-quiet-winter-evening.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "100.43",
+      "location": "[8.990,-15.100,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #60 a-quiet-winter-evening"
+    },
+    "root": {
+      "resource": "root.glb",
+      "resource_type": "door"
+    }
+  },
+  "Baltics": {
+    "parent": "root",
+    "resource": "Baltics.glb",
+    "template": "T_pannels_school_B.glb",
+    "the-kuldiga-bridge": {
+      "resource": "/Baltics/the-kuldiga-bridge.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.20",
+      "location": "[8.990,15.100,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #61 the-kuldiga-bridge"
+    },
+    "stonehenge-in-smiltene": {
+      "resource": "/Baltics/stonehenge-in-smiltene.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.20",
+      "location": "[8.990,8.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #62 stonehenge-in-smiltene"
+    },
+    "jaunpils-castle": {
+      "resource": "/Baltics/jaunpils-castle.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "88.20",
+      "location": "[8.990,0.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #63 jaunpils-castle"
+    },
+    "root": {
+      "resource": "root.glb",
+      "resource_type": "door"
+    }
+  },
+  "Technical": {
+    "ambientLight": 0.5,
+    "pointLight": 50,
+    "style": "school",
+    "show_plaques": false,
+    "show_frames": true,
+    "skip_hub": false
+  }
+}
