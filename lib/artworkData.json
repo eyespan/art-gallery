@@ -60,28 +60,28 @@
       "price": "£350",
       "medium": "Acrylic on canvas board framed",
       "size": "25 x 30 cm",
-      "description": "Inspired by spring days and the simple beaty of wild dandelion fields."
+      "description": "Inspired by spring days and the simple beauty of wild dandelion fields."
     },
     "a-quiet-winter-evening": {
       "order": 10,  
       "price": "£350",
       "medium": "Acrylic on canvas board framed",
       "size": "25 x 30 cm",
-      "description": "This painting captures a calm winter landsacpe with soft snow, muted earthy tones, and a simple rural scene. The compostion has a timeless peaceful feel with a gentle sense of stillness and warnth."
+      "description": "This painting captures a calm winter landscape with soft snow, muted earthy tones, and a simple rural scene. The composition has a timeless peaceful feel with a gentle sense of stillness and warmth."
     },
     "winter-light-over-the-hills": {
       "order": 11,  
       "price": "£350",
       "medium": "Acrylic on canvas board framed",
       "size": "25 x 30 cm",
-      "description": "Inspired by the Countrside in the South West of England: Peaceful, bright and untouched beneath a clear blue winter sky."
+      "description": "Inspired by the Countryside in the South West of England: Peaceful, bright and untouched beneath a clear blue winter sky."
     },
     "twilight-over-frozen-meadows": {
       "order": 12,  
       "price": "£300",
       "medium": "Acrylic on canvas board framed",
       "size": "25 x 30 cm",
-      "description": "This painting captures a quite winter envening, snow covered fields beneath the fading light of the winter sun."
+      "description": "This painting captures a quiet winter evening, snow covered fields beneath the fading light of the winter sun."
     },
     "winter-in-woodlands": {
       "order": 13,  
@@ -109,7 +109,7 @@
       "price": "£325",
       "medium": "Acrylic on canvas board framed",
       "size": "25 x 30 cm",
-      "description": "This origianl piece was inspired by the lavander fields and peaceful landsacpe of the Cotswolds."
+      "description": "This original piece was inspired by the lavender fields and peaceful landscape of the Cotswolds."
     },
     "across-the-quiet-land": {
       "order": 17,  
@@ -123,28 +123,28 @@
       "price": "£325",
       "medium": "Acrylic on canvas board framed",
       "size": "24 x 30 cm",
-      "description": "This painting captures the quiet majesty of the iconic Burnham Overy Windmill standing over the Norfolk countryside"
+      "description": "This painting captures the quiet majesty of the iconic Burnham Overy Windmill standing over the Norfolk countryside."
     },
     "warm-days-in-the-meadow": {
       "order": 19,  
       "price": "£295",
       "medium": "Acrylic on canvas board framed",
       "size": "25 x 30 cm",
-      "description": "A peaceful countryside scene on quite summer afternoon."
+      "description": "A peaceful countryside scene on quiet summer afternoon."
     },
     "where-memories-live": {
       "order": 20,  
       "price": "£325",
       "medium": "Acrylic on canvas board framed",
       "size": "24 x 30 cm",
-      "description": "This painting is inspired by quiet rural landscape. The grey blue sky reflects a calm, overcast day, not dramatic, but still full of mood. The wheat field adds a sense of continuity that captures  the peacefulness and subtle beauty of the place."
+      "description": "This painting is inspired by quiet rural landscape. The grey blue sky reflects a calm, overcast day, not dramatic, but still full of mood. The wheat field adds a sense of continuity that captures the peacefulness and subtle beauty of the place."
     },
     "summer-light": {
       "order": 21,  
       "price": "£325",
       "medium": "Acrylic on canvas board framed",
       "size": "23 x 30 cm",
-      "description": "Inspired by the Suffolk coutryside, this piece captures the gentle golden light that settles over the fields in late summer."
+      "description": "Inspired by the Suffolk countryside, this piece captures the gentle golden light that settles over the fields in late summer."
     },
     "beneath-the-suffolk-sky": {
       "order": 22,  
@@ -165,7 +165,7 @@
       "price": "£325",
       "medium": "Acrylic on canvas board framed",
       "size": "25 x 30 cm",
-      "description": "Inspired by the unique landscape of Happisburgh beach on the Norfolk Coast. A calm atmospheric scence that brings a touch of nature and mood into any space."
+      "description": "Inspired by the unique landscape of Happisburgh beach on the Norfolk Coast. A calm atmospheric scene that brings a touch of nature and mood into any space."
     },
     "levington-creek": {
       "order": 25,  
@@ -242,7 +242,7 @@
         "price": "£295",
         "medium": "Acrylic on canvas board framed",
         "size": "24 x 30 cm",
-        "description": "Meadow Serenity is a landscape piece looking out across a field of wildflowers toward a cottage nestled quietly against tall trees under a bright morning sky"
+        "description": "Meadow Serenity is a landscape piece looking out across a field of wildflowers toward a cottage nestled quietly against tall trees under a bright morning sky."
     },
     "lavardens": {
         "order": 36,
@@ -312,7 +312,7 @@
       "price": "£295",
       "medium": "Acrylic on canvas board framed",
       "size": "25 x 30 cm",
-      "description": "Summer Day is a bright and cheerful painting that captures the warmth and joy of a perfect summer day, with a vibrant meadow filled with colourful wildflowers scattered across green grass beneath a clear blue sky.."
+      "description": "Summer Day is a bright and cheerful painting that captures the warmth and joy of a perfect summer day, with a vibrant meadow filled with colourful wildflowers scattered across green grass beneath a clear blue sky."
     },
     "sheep-in-the-golden-fields": {
         "order": 46,
@@ -326,7 +326,7 @@
         "price": "£295",
         "medium": "Acrylic on canvas board framed",
         "size": "23 x 30 cm",
-        "description": "A serene countryside painting featuring amber fields, scattered hay bales, and a rustic barn beneath a gentle blue summer sky"
+        "description": "A serene countryside painting featuring amber fields, scattered hay bales, and a rustic barn beneath a gentle blue summer sky."
     },
     "whispers-of-wild": {
         "order": 48,
@@ -403,7 +403,7 @@
       "price": "£325",
       "medium": "Acrylic on canvas board framed",
       "size": "23 x 30 cm",
-      "description": "This landscape painting captures a glowing, amber harvest field dotted with rolled hay bales under an expansive sky"
+      "description": "This landscape painting captures a glowing, amber harvest field dotted with rolled hay bales under an expansive sky."
     },
     "spring": {
       "order": 59,
@@ -452,6 +452,6 @@
         "price": "£325",
         "medium": "Acrylic on canvas board framed",
         "size": "25 x 30 cm",
-        "description": "A suffolk countryside painting featuring sweeping green fields, delicate wildflowers, and distant tree lines under a bright summer sky."
+        "description": "A Suffolk countryside painting featuring sweeping green fields, delicate wildflowers, and distant tree lines under a bright summer sky."
     }
 }
